@@ -235,5 +235,4 @@ image_5 = canvas.create_image(
     43.0,
     image=image_image_5
 )
-window.resizable(False, False)
 window.mainloop()
